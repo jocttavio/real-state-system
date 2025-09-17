@@ -31,8 +31,8 @@ Our solution centralizes all property and client information into a single dashb
 
 ## 🧰 Tech Stack
 
-| Frontend          | Backend      | Base de datos     |Otros                                      |
-| ----------------- | ------------ | ----------------- ------------------------------------------- |
+| Frontend          | Backend      | Base de datos     | Otros                                      |
+| ----------------- | ------------ | ----------------- | ------------------------------------------ |
 | JavaScript, Vuejs | PHP, Laravel | MySQL, PhpMyAdmin | Docker, Axios, Git, Apache, Composer, Cors, JWT, Nginx, TailwindCss, Pinia, Chartsjs |
 ---
 
