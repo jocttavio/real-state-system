@@ -15,17 +15,17 @@ Our solution centralizes all property and client information into a single dashb
 
 ## 🚀 Features
 
-User Authentication & Authorization: Secure user registration (sign-up) and login (sign-in) system implemented with JWT (JSON Web Tokens) and CORS for stateless, secure API communication.
+- User Authentication & Authorization: Secure user registration (sign-up) and login (sign-in) system implemented with JWT (JSON Web Tokens) and CORS for stateless, secure API communication.
 
-Full-Stack Property Management: Create, read, update, and delete (CRUD) property listings. Includes a preview mode to review listings before publishing them.
+- Full-Stack Property Management: Create, read, update, and delete (CRUD) property listings. Includes a preview mode to review listings before publishing them.
 
-Property Reservation System: A functionality for users to reserve properties, enabling the core business transaction of the platform.
+- Property Reservation System: A functionality for users to reserve properties, enabling the core business transaction of the platform.
 
-Interactive Dashboard: An admin panel featuring data visualizations (charts, graphs) to display key performance indicators and property statistics.
+- Interactive Dashboard: An admin panel featuring data visualizations (charts, graphs) to display key performance indicators and property statistics.
 
-Public Landing Page: A clean, responsive homepage designed to showcase all available properties to potential clients.
+- Public Landing Page: A clean, responsive homepage designed to showcase all available properties to potential clients.
 
-Containerized Deployment: The application is containerized with Docker, ensuring consistent environments across development, testing, and production setups.
+- Containerized Deployment: The application is containerized with Docker, ensuring consistent environments across development, testing, and production setups.
 
 ---
 
